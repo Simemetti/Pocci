@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     lista l = NULL;
 
-    cout<<"Eskerio"<<endl;
+    cout<<"Eskerio 2. Asbestos free."<<endl;
 
     return 0;
 }
